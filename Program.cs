@@ -1,4 +1,7 @@
-﻿Console.Clear();
+skjfhkashfklashfklaslkfsajçlkfsadçlasfdj
+
+
+Console.Clear();
 String Texto, Baleeis;
 
 Console.WriteLine("Digite um texto.");
